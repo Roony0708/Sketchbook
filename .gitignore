@@ -12,8 +12,9 @@ pids
 # Directory for dependencies
 node_modules/
 
-# Production build
+# Production & dev build
 dist/
+.vite/
 
 # Local env files
 .env
